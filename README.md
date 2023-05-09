@@ -1,3 +1,6 @@
+![image](https://github.com/Anastasia1ukina/BOOKING-FORM/assets/89194358/d26b35ce-fd3e-4f11-97c7-d0694e334793)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
