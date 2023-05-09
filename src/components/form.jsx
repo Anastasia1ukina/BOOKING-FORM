@@ -44,7 +44,7 @@ const App = () => {
 
                 <Form.Item
                     className='item'
-                    name="stage"
+                    name="floor"
                     label="Этаж"
                     labelCol={{ span: 24 }}
                     rules={[{ required: true, message: "Пожалуйста, заполните поле" },]}>
